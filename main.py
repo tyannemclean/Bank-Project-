@@ -4,7 +4,7 @@ input('Hello, what is your account number?')
 
 if input == 23768910:
   print ('Correct.');
-  input('What do you need help with? Select 1 to check the balance. Select 2 to chsange password. Select 3 to ')
+  input('What do you need help with? Select 1 to check the balance. Select 2 to chsange password. Select 3 to change account details ')
 else:
   print ('Incorrect. Please try again, or contact customer support.')
 
